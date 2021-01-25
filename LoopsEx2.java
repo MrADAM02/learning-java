@@ -1,3 +1,11 @@
+
+/*
+
+Writing a program that keep reading the user input untill it reaches 100 then stops
+
+*/
+
+
 import java.util.Scanner;
 
 public class LoopsEx2 {
