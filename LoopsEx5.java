@@ -1,3 +1,10 @@
+
+/*
+
+ Writing a program that displays the sum of digits of an integer read from the user.
+
+*/
+
 import java.util.Scanner;
 
 public class LoopsEx5 {
