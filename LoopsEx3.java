@@ -1,3 +1,11 @@
+
+/*
+
+Writing a program tells the user weather the number entered is prime or not.
+
+*/
+
+
 import java.util.Scanner;
 
 public class LoopsEx3 {
