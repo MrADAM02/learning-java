@@ -5,7 +5,7 @@ Writing a program that reads a positive integer n from the user and displays the
 22
 333
 4444
-…
+â€¦
 nnnn...n
 */
 
@@ -26,7 +26,6 @@ public class LoopsEx11 {
 			
 			System.out.println();
 			}
-		
 		}
 	}
 }
